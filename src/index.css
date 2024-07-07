@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footerImage {
+  background-image: url("../public/assets/footer/footerBackground.png");
+  background-size: cover;
+}
+
+.stats-image {
+  background-image: url("../public/assets/crvenaP.png");
+  background-size: cover;
+}
+
+.highway-image {
+  background-image: url("../public/assets/highway.jpg");
+  background-size: cover;
+}
+
+.splide__arrow {
+  background-color: black;
+}
+
+.arrows {
+  background-color: black;
+}

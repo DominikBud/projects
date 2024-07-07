@@ -1,0 +1,142 @@
+{
+  "navigationItems": [
+    {
+      "destination": "O NAMA",
+      "fillerText": "vizija za uspeh",
+      "link": "https://veleprodaja.dvgcompany.com/o-nama"
+    },
+    {
+      "destination": "DVG PROIZVODI",
+      "fillerText": "naši proizvodi",
+      "link": "https://veleprodaja.dvgcompany.com/nasi-proizvodi"
+    },
+    {
+      "destination": "BRENDOVI",
+      "fillerText": "koje zasupamo",
+      "link": "https://veleprodaja.dvgcompany.com/brendovi"
+    },
+    {
+      "destination": "DISTRIBUCIJA",
+      "fillerText": "logistika i operativa",
+      "link": "https://veleprodaja.dvgcompany.com/distribucija"
+    },
+
+    {
+      "destination": "SARADNJA",
+      "fillerText": "proširenje ponude",
+      "link": "https://veleprodaja.dvgcompany.com/postanite-nas-partner"
+    },
+    {
+      "destination": "NOVOSTI",
+      "fillerText": "aktuelnosti",
+      "link": "https://veleprodaja.dvgcompany.com/novosti"
+    },
+    {
+      "destination": "WEBSHOP",
+      "fillerText": "Online kupovina",
+      "link": "https://dvgcompany.com/"
+    },
+    {
+      "destination": "KONTAKT",
+      "fillerText": "kontaktirajte nas",
+      "link": "https://veleprodaja.dvgcompany.com/dvg-company-doo"
+    }
+  ],
+  "articles": [
+    {
+      "image": "/assets/srednja1.png",
+      "text": "Postanite nas partner"
+    },
+    {
+      "image": "/assets/srednja2.png",
+      "text": "Nasi proizvodi"
+    },
+    {
+      "image": "/assets/srednja3.png",
+      "text": "Uvoz iz madjarske"
+    }
+  ],
+
+  "products": [
+    {
+      "image": "/assets/male slike/kese.png",
+      "text": "kese i folije"
+    },
+    {
+      "image": "/assets/male slike/zaKuhinju.png",
+      "text": "za kuhinju"
+    },
+    {
+      "image": "/assets/male slike/Ubrusi.png",
+      "text": "Ubrusi i toalet papiri"
+    },
+    {
+      "image": "/assets/male slike/Kozmetika.png",
+      "text": "kozmetika"
+    },
+    {
+      "image": "/assets/male slike/plasticneKante.png",
+      "text": "Plastične kante"
+    }
+  ],
+
+  "stats": [
+    { "value": 3000, "text": "magacinskog prostora" },
+    { "value": 20, "text": "vozila" },
+    { "value": 8, "text": "komercijalista" },
+    { "value": 170, "text": "proizvoda" }
+  ],
+
+  "partners": [
+    {
+      "image": "/assets/Partneri/dove.png",
+      "text": "Dove"
+    },
+    {
+      "image": "/assets/Partneri/nivea.png",
+      "text": "Nivea"
+    },
+    {
+      "image": "/assets/Partneri/palmolive.png",
+      "text": "Palmolive"
+    },
+    {
+      "image": "/assets/Partneri/vanish.png",
+      "text": "Vanish"
+    },
+    {
+      "image": "/assets/Partneri/ajax.png",
+      "text": "Ajax"
+    },
+    {
+      "image": "/assets/Partneri/cif.png",
+      "text": "Cif"
+    }
+  ],
+
+  "button": "Saznajte vise o nama",
+
+  "buttonPartner": "Svi brendovi u nasem portfoliju",
+  "sectionIntro": {
+    "subheading": "Veleprodaja i maloprodaja kozmetike i kućne hemije",
+
+    "paragraph": "DVG Company d.o.o. je trgovinsko preduzeće osnovano 2008. godine u Subotici.Prvenstvena delatnost kompanije je veleprodaja kozmetike i kućne hemije.U potpunosti je u privatnom vlasništvu, sa sedištem u Subotici. Tu se nalazi distrubutivni centari poslovne prostorije, sa ukupno 3000m2 magacinskog prostora koji zadovoljava sve segmente u pogledu smeštaja, čuvanja i plasiranja robe."
+  },
+  "distributionHeading": "POUZDANA DISTRIBUCIJA",
+  "statsSection": {
+    "subheading": "u brojkama"
+  },
+  "productSection": {
+    "heading": "Naši proizvodi",
+    "paragraph": "Naše proizvode DVG Cosmetics odlikuje visok kvalitet kojim se dobija kompletna nega lica I tela. Uspeli smo da uskladimo kvalitet i cenu, što su prepoznali i našI kupci."
+  },
+  "partnersSection": {
+    "heading": "Istaknuti brendovi za koje radimo distribuciju"
+  },
+  "footer": {
+    "followusHeading": "Pratite nas",
+    "copyright": "Sva prava zadržana.",
+    "privacy": "Privatnost podatka",
+    "rules": "Uslovi korišćenja"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "navigationItems": [
+    {
+      "destination": "ABOUT US",
+      "fillerText": "vision for success",
+      "link": "https://veleprodaja.dvgcompany.com/o-nama"
+    },
+    {
+      "destination": "DVG PRODUCTS",
+      "fillerText": "our products",
+      "link": "https://veleprodaja.dvgcompany.com/nasi-proizvodi"
+    },
+    {
+      "destination": "BRANDS",
+      "fillerText": "brands we represent",
+      "link": "https://veleprodaja.dvgcompany.com/brendovi"
+    },
+    {
+      "destination": "DISTRIBUTION",
+      "fillerText": "logistics and operations",
+      "link": "https://veleprodaja.dvgcompany.com/distribucija"
+    },
+    {
+      "destination": "COOPERATION",
+      "fillerText": "expanding the offer",
+      "link": "https://veleprodaja.dvgcompany.com/postanite-nas-partner"
+    },
+    {
+      "destination": "NEWS",
+      "fillerText": "current events",
+      "link": "https://veleprodaja.dvgcompany.com/novosti"
+    },
+    {
+      "destination": "WEBSHOP",
+      "fillerText": "Online shopping",
+      "link": "https://dvgcompany.com/"
+    },
+    {
+      "destination": "CONTACT",
+      "fillerText": "contact us",
+      "link": "https://veleprodaja.dvgcompany.com/dvg-company-doo"
+    }
+  ],
+  "articles": [
+    {
+      "image": "/assets/srednja1.png",
+      "text": "Become our partner"
+    },
+    {
+      "image": "/assets/srednja2.png",
+      "text": "Our products"
+    },
+    {
+      "image": "/assets/srednja3.png",
+      "text": "Import from Hungary"
+    }
+  ],
+  "products": [
+    {
+      "image": "/assets/male slike/kese.png",
+      "text": "bags and foils"
+    },
+    {
+      "image": "/assets/male slike/zaKuhinju.png",
+      "text": "for the kitchen"
+    },
+    {
+      "image": "/assets/male slike/Ubrusi.png",
+      "text": "Napkins and toilet papers"
+    },
+    {
+      "image": "/assets/male slike/Kozmetika.png",
+      "text": "cosmetics"
+    },
+    {
+      "image": "/assets/male slike/plasticneKante.png",
+      "text": "Plastic bins"
+    }
+  ],
+  "stats": [
+    { "value": 3000, "text": "warehouse space" },
+    { "value": 20, "text": "vehicles" },
+    { "value": 8, "text": "sales representatives" },
+    { "value": 170, "text": "products" }
+  ],
+  "partners": [
+    {
+      "image": "/assets/Partneri/dove.png",
+      "text": "Dove"
+    },
+    {
+      "image": "/assets/Partneri/nivea.png",
+      "text": "Nivea"
+    },
+    {
+      "image": "/assets/Partneri/palmolive.png",
+      "text": "Palmolive"
+    },
+    {
+      "image": "/assets/Partneri/vanish.png",
+      "text": "Vanish"
+    },
+    {
+      "image": "/assets/Partneri/ajax.png",
+      "text": "Ajax"
+    },
+    {
+      "image": "/assets/Partneri/cif.png",
+      "text": "Cif"
+    }
+  ],
+  "button": "Learn more about us",
+  "buttonPartner": "All brands in our portfolio",
+  "sectionIntro": {
+    "subheading": "Wholesale and retail of cosmetics and household chemicals",
+    "paragraph": "DVG Company Ltd. is a trading company founded in 2008 in Subotica. The company's primary activity is the wholesale of cosmetics and household chemicals. It is entirely privately owned, with headquarters in Subotica. The distribution center and business premises are located there, with a total of 3000m2 of warehouse space that meets all aspects of storage, preservation, and placement of goods."
+  },
+  "distributionHeading": "RELIABLE DISTRIBUTION",
+  "statsSection": {
+    "subheading": "in numbers"
+  },
+  "productSection": {
+    "heading": "Our products",
+    "paragraph": "Our DVG Cosmetics products are characterized by high quality, providing complete care for the face and body. We have managed to harmonize quality and price, which our customers have recognized."
+  },
+  "partnersSection": {
+    "heading": "Prominent brands we distribute for"
+  },
+  "footer": {
+    "followusHeading": "Follow us",
+    "copyright": "All rights reserved.",
+    "privacy": "Data privacy",
+    "rules": "Terms of use"
+  }
+}

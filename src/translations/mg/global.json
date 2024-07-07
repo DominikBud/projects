@@ -1,0 +1,135 @@
+{
+  "navigationItems": [
+    {
+      "destination": "RÓLUNK",
+      "fillerText": "sikerért vízió",
+      "link": "https://veleprodaja.dvgcompany.com/o-nama"
+    },
+    {
+      "destination": "DVG TERMÉKEK",
+      "fillerText": "termékeink",
+      "link": "https://veleprodaja.dvgcompany.com/nasi-proizvodi"
+    },
+    {
+      "destination": "MÁRKÁK",
+      "fillerText": "amelyeket képviselünk",
+      "link": "https://veleprodaja.dvgcompany.com/brendovi"
+    },
+    {
+      "destination": "DISZTRIBÚCIÓ",
+      "fillerText": "logisztika és működés",
+      "link": "https://veleprodaja.dvgcompany.com/distribucija"
+    },
+    {
+      "destination": "Együttműködés",
+      "fillerText": "az ajánlat kibővítése",
+      "link": "https://veleprodaja.dvgcompany.com/postanite-nas-partner"
+    },
+    {
+      "destination": "HÍREK",
+      "fillerText": "aktualitások",
+      "link": "https://veleprodaja.dvgcompany.com/novosti"
+    },
+    {
+      "destination": "WEBSHOP",
+      "fillerText": "Online vásárlás",
+      "link": "https://dvgcompany.com/"
+    },
+    {
+      "destination": "KAPCSOLAT",
+      "fillerText": "lépjen velünk kapcsolatba",
+      "link": "https://veleprodaja.dvgcompany.com/dvg-company-doo"
+    }
+  ],
+  "articles": [
+    {
+      "image": "/assets/srednja1.png",
+      "text": "Legyen partnerünk"
+    },
+    {
+      "image": "/assets/srednja2.png",
+      "text": "Termékeink"
+    },
+    {
+      "image": "/assets/srednja3.png",
+      "text": "Import Magyarországról"
+    }
+  ],
+  "products": [
+    {
+      "image": "/assets/male slike/kese.png",
+      "text": "táskák és fóliák"
+    },
+    {
+      "image": "/assets/male slike/zaKuhinju.png",
+      "text": "a konyhába"
+    },
+    {
+      "image": "/assets/male slike/Ubrusi.png",
+      "text": "szalvéták és WC papírok"
+    },
+    {
+      "image": "/assets/male slike/Kozmetika.png",
+      "text": "kozmetikumok"
+    },
+    {
+      "image": "/assets/male slike/plasticneKante.png",
+      "text": "műanyag ládák"
+    }
+  ],
+  "stats": [
+    { "value": 3000, "text": "raktári terület" },
+    { "value": 20, "text": "jármű" },
+    { "value": 8, "text": "kereskedelmi képviselő" },
+    { "value": 170, "text": "termék" }
+  ],
+  "partners": [
+    {
+      "image": "/assets/Partneri/dove.png",
+      "text": "Dove"
+    },
+    {
+      "image": "/assets/Partneri/nivea.png",
+      "text": "Nivea"
+    },
+    {
+      "image": "/assets/Partneri/palmolive.png",
+      "text": "Palmolive"
+    },
+    {
+      "image": "/assets/Partneri/vanish.png",
+      "text": "Vanish"
+    },
+    {
+      "image": "/assets/Partneri/ajax.png",
+      "text": "Ajax"
+    },
+    {
+      "image": "/assets/Partneri/cif.png",
+      "text": "Cif"
+    }
+  ],
+  "button": "Tudjon meg többet rólunk",
+  "buttonPartner": "Minden termék",
+  "sectionIntro": {
+    "subheading": "Kozmetika és háztartási vegyiáru nagy- és kiskereskedelme",
+    "paragraph": "A DVG Company Kft. egy kereskedelmi vállalkozás, amelyet 2008-ban alapítottak Suboticában. A cég fő tevékenysége a kozmetika és háztartási vegyiáru nagykereskedelme. Teljesen magántulajdonú, székhelye Suboticában található. Itt van az elosztóközpont és az üzlethelyiség, összesen 3000m2 raktárhelyiséggel, amely megfelel az áruk tárolásának, megőrzésének és elhelyezésének minden szempontjának."
+  },
+  "distributionHeading": "MEGBÍZHATÓ DISZTRIBÚCIÓ",
+  "statsSection": {
+    "subheading": "számokban"
+  },
+  "productSection": {
+    "heading": "Termékeink",
+    "paragraph": "DVG Cosmetics termékeinket magas minőség jellemzi, amely teljes körű ápolást biztosít az arc és a test számára. Sikerült összehangolnunk a minőséget és az árat, amit ügyfeleink is elismernek."
+  },
+  "partnersSection": {
+    "heading": "Kiemelt márkák, amelyekért disztribúciót végzünk"
+  },
+  "footer": {
+    "followusHeading": "Kövessen minket",
+    "copyright": "Minden jog fenntartva.",
+    "privacy": "Adatvédelem",
+    "rules": "Felhasználási feltételek"
+  }
+}
